@@ -15,4 +15,4 @@ used commands:
 	> readelf -s /home/fatma/STM/session_2/task1/a.out
 
 
-All the generated files (.i, .s, .o and the executable) are included in the directory.
+outputs screenshots are included in the directory.
