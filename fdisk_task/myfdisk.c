@@ -23,7 +23,7 @@ typedef struct {
     uint32_t sector_count;
 } PartitionEntry;
 
-/* This funtion is used to get the type of the partition (primary, extended or logical) depending on its ID*/ 
+/* This funtion is used to get the type of the partition file system depending on its ID*/ 
 char *getType(uint8_t type)
 {
     if (type == 0x83)
